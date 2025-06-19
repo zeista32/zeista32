@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @zeista32
-- 👀 I’m interested in studying
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Hi i am Zeista32
+- A international student who studied IGCSE and Alevel
+- Ielts band 6.5(Listening:7 Reading:7 Writing:6 Speaking:6)
 
 <!---
 zeista32/zeista32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
